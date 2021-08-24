@@ -1,4 +1,4 @@
-const sum = require("./index.js");
+const sum = require("./sum.js");
 
 describe("sum functions", () => {
   it("sum two numbers", () => {
